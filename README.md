@@ -1,5 +1,7 @@
- ;.
 Machine Learning Project 
+ ![](Wine.PNG)
+
+                                      
 
 
 The purpose of this project is to analyze machine learning algorithms by looking at red and white wine datasets. The data includes 12 input features: 
@@ -32,7 +34,11 @@ the percent alcohol content of the wine.
 We will output the quality of each wine with a score ranging from 1 – 9, base on Tableau to analyze the most important trend, we would use Linear Regression, Random Forest Regression, Elastic Net Regression, and Neural Net Regression. Finally, we will fine-tune the best model for maximum optimization.
 
 Map showing the most important features:
-
+![](Compare_Features_VS_Quality.PNG)
+![](compare_feartures.PNG)
 Correlation map for Red and White wine
+![](WhiteWineCorrelation1.PNG)
+![](RedWineCorrelation.PNG)
 
 comaparaison features between Red and White wine 
+![](Wine_Quality_Change.PNG)
