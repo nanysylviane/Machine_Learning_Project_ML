@@ -30,3 +30,9 @@ Sulfates are salts of sulfuric acid.
 the percent alcohol content of the wine.
 
 We will output the quality of each wine with a score ranging from 1 – 9, base on Tableau to analyze the most important trend, we would use Linear Regression, Random Forest Regression, Elastic Net Regression, and Neural Net Regression. Finally, we will fine-tune the best model for maximum optimization.
+
+Map showing the most important features:
+
+Correlation map for Red and White wine
+
+comaparaison features between Red and White wine 
