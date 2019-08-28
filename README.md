@@ -12,7 +12,7 @@ Volatile acidity is mostly caused by bacteria in the wine creating acetic acid�
 •	Citric Acid
 Citric acid is generally found in very small quantities in wine grapes. It acts as a preservative and is added to wines to increase acidity, complement a specific flavor or prevent ferric hazes. It can be added to finished wines to increase acidity and give a “fresh” flavor. Excess addition, however, can ruin the taste.
 •	Residual Sugars
-RS for short refers to any natural grape sugars that are leftover after fermentation ceases (whether on purpose or not). The juice of wine grapes starts intensely sweet, and fermentation
+RS for short refers to any natural grape sugars that are leftover after fermentation ceases (whether on purpose or not). The juice of wine grapes starts intensely sweet, and fermentation.
 
  Chloride
 The amount of chlorides present in wine is usually an indicator of its “saltiness.” This is usually influenced by the territory where the wine grapes grew, cultivation methods, and also the grape type. Too much saltiness is considered undesirable. The right proportion can make the wine more savory.
@@ -31,7 +31,7 @@ Sulfates are salts of sulfuric acid.
 •	Alcohol  
 the percent alcohol content of the wine.
 
-We will output the quality of each wine with a score ranging from 1 – 9, base on Tableau to analyze the most important trend, we would use Linear Regression, Random Forest Regression, Elastic Net Regression, and Neural Net Regression. Finally, we will fine-tune the best model for maximum optimization.
+We will output the quality of each wine with a score ranging from 1 – 9, based on Tableau to analyze the most important trend, we would use Linear Regression, Random Forest Regression, Elastic Net Regression, and Neural Net Regression. Finally, we will fine-tune the best model for maximum optimization.
 
 Map showing the most important features:
 ![](Compare_Features_VS_Quality.PNG)
@@ -40,5 +40,5 @@ Correlation map for Red and White wine
 ![](WhiteWineCorrelation1.PNG)
 ![](RedWineCorrelation.PNG)
 
-comaparaison features between Red and White wine 
+comaparison features between Red and White wine 
 ![](Wine_Quality_Change.PNG)
